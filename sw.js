@@ -1,5 +1,5 @@
-// Clima50 v5.1: armazenamento local do aplicativo, sem cache de dados de terceiros ou coordenadas GPS.
-const CACHE='clima50-shell-v5-1';
+// Clima50 v5.2: armazenamento local do aplicativo, sem cache de dados de terceiros ou coordenadas GPS.
+const CACHE='clima50-shell-v5-2';
 const SHELL=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));
