@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Clima50 • Bebedouro",
+  "short_name": "Clima50",
+  "description": "Clima personalizado para Bebedouro, radar de raios sob demanda e avisos INMET.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "pt-BR",
+  "background_color": "#071525",
+  "theme_color": "#071525",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
