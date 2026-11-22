@@ -53,6 +53,7 @@ jobs:
           branch='automation/sync-mk-protocol'
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git fetch origin "$branch" || true
           git switch -C "$branch"
           git add docs/PROTOCOLO_MK_QUALIDADE.md
           if git diff --cached --quiet; then
