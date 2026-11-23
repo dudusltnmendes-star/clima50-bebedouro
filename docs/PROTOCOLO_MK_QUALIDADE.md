@@ -64,7 +64,7 @@
 |---|---|---|
 | Jane | Investigação, verificação, correlação de informações e sinais de fraude | Evidência de fonte autorizada; distinguir suspeita de confirmação |
 | MK TIR | Segurança, revisão de dependências, autenticação, criptografia e permissões | Não aprovar falhas críticas conhecidas |
-| CODA | Oportunidades comerciais, freelas e propostas | Verificar vagas, custos, restrições e viabilidade |
+| Koda | Oportunidades comerciais, freelas e propostas | Verificar vagas, custos, restrições e viabilidade; controlar o gasto de conexões do 99Freelas |
 | Prisma Design / Michelangelo | Interface visual, identidade, conteúdos e acessibilidade | Legibilidade e adequação a dispositivos móveis |
 | Seu Zé | Desenvolvimento e implementação | Código funcional, testes e regressões |
 | Pesquisadores MK | Pesquisa aprofundada e verificação de oportunidades | Fontes atuais, independentes e verificáveis |
@@ -155,3 +155,11 @@ Adaptado das 12 dicas previamente selecionadas do material *43 Dicas e Truques d
 ## Nota de implantação
 
 Criar este arquivo **não** altera automaticamente os prompts de sistema, instruções remotas, apps ou agentes que não leem este repositório. Para integração efetiva, adicionar uma referência ao protocolo nos pontos de inicialização ou configuração de cada agente, após localizar e validar esses pontos em suas respectivas bases.
+
+## Controle de conexões do Koda (registro informado em 21/11/2026)
+
+- Saldo informado pelo usuário: **18 conexões disponíveis**, das quais **15 não expiráveis**.
+- Próxima renovação informada: **16/12/2026**. Não presumir quantas conexões serão renovadas nem o prazo de validade das demais sem confirmação.
+- Uma proposta de templates para Instagram consumiu **3 conexões**.
+- Antes de sugerir uma vaga, conferir se o plano gratuito permite candidatar-se e, quando disponível, informar **custo em conexões, concorrência, chance relativa de adequação e esforço**.
+- Saldo é variável: solicitar atualização quando necessário, não subtrair novamente conexões de propostas já enviadas.
